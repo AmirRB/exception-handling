@@ -37,5 +37,5 @@ curl --location --request DELETE 'localhost:8080/api/students/200'```
 }
 ```
 
-I place postman collection in project with "" name
+I place postman collection in project with "baam.postman_collection.json" name
 
