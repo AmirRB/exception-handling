@@ -26,7 +26,8 @@ curl --location 'localhost:8080/api/students/100'
 
 **request**
 ```bash
-curl --location --request DELETE 'localhost:8080/api/students/200'```
+curl --location --request DELETE 'localhost:8080/api/students/200'
+```
 **response**
 
 ```json
